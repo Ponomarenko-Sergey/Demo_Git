@@ -1,2 +1,4 @@
 Some text
 Some text too
+New Text
+New Text too
